@@ -2,7 +2,7 @@
 
 This repo contains the slide deck from my [presentation](http://railsconf.com/program#prop_2002) at RailsConf 2016.
 
-*I will post a link to video of the presentation as soon as it is available.*
+The [video](http://confreaks.tv/videos/railsconf2016-inside-activejob) is available online at Confreaks.
 
 ## Abstract
 
